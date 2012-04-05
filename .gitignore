@@ -1,0 +1,14 @@
+target
+.DS_Store
+.workspace
+classes
+*.log
+*.aux
+*.iws
+workspace
+plugin.xml
+.idea
+*.iml
+.classpath
+.project
+.settings
